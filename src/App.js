@@ -1,9 +1,13 @@
 import './App.css';
+import Frame from "./components/Frame.js";
+
 
 function App() {
   return (
-    <div className="app">
-      <p>Hello World!</p>
+    <div>
+    <Frame/>
+    <Frame/>
+    <Frame/>
     </div>
   );
 }
