@@ -5,9 +5,9 @@ import Frame from "./components/Frame.js";
 function App() {
   return (
     <div>
-    <Frame/>
-    <Frame/>
-    <Frame/>
+      <Frame/>
+
+
     </div>
   );
 }
